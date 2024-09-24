@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 
 import static java.lang.Math.min;
 
-public class backjon1149 {
+public class baekjoon1149 {
 
     //1149
     //다이내믹 알고리즘

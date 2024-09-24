@@ -1,10 +1,8 @@
 package divideAndConquerAlgorithm;
 
-import java.io.BufferedReader;
 import java.io.IOException;
-import java.io.InputStreamReader;
 
-public class backjon1629 {
+public class baekjoon1629 {
 
     public static void main(String[] args) throws IOException {
         // Divide and Conquer

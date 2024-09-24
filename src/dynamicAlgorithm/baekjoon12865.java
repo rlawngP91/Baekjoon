@@ -4,7 +4,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class backjon12865 {
+public class baekjoon12865 {
 
     // 몰라서 답지 확인..ㅜ
     // 행 : 담을 수 있는 최대 무게 (i kg까지 담을 수 있음)

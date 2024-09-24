@@ -1,4 +1,4 @@
 package divideAndConquerAlgorithm;
 
-public class backjon15650 {
+public class baekjoon15650 {
 }

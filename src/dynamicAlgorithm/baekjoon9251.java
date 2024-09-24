@@ -1,11 +1,9 @@
 package dynamicAlgorithm;
 
-import java.io.BufferedReader;
 import java.io.IOException;
-import java.io.InputStreamReader;
 import java.util.Scanner;
 
-public class backjon9251 {
+public class baekjoon9251 {
 
 //            ABCABCDEA
 //            ADCAB
